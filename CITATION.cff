@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+- family-names: "Matthew"
+  given-names: "Vivek"
+  orcid: "https://orcid.org/0009-0003-2627-7788"
+title: "blr-employment-stats"
+version: "2026.08.22"
+date-released: 2026-08-22
+license: ODbL-1.0
+repository-code: "https://github.com/Vonter/blr-employment-stats"
+url: "https://github.com/Vonter/blr-employment-stats"
+preferred-citation:
+  type: dataset
+  authors:
+  - family-names: "Matthew"
+    given-names: "Vivek"
+    orcid: "https://orcid.org/0009-0003-2627-7788"
+  title: "Tidy dataset of employee counts across establishments registered under the Karnataka Shops and Commercial Establishments Act in Bengaluru."
+  version: "2026.08.22"
+  date-published: 2026-08-22
+  url: "https://github.com/Vonter/blr-employment-stats"
